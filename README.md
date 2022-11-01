@@ -1,5 +1,7 @@
 ## Sistema de balanço patrimonial e DRE
 
+#Telas
+
 ![image](https://user-images.githubusercontent.com/86486202/199177595-6ddd8b6f-e18e-4f15-9414-6267391b100a.png)
 
 ![image](https://user-images.githubusercontent.com/86486202/199178002-4070defa-6bd5-43e4-a9b8-287f3c326ee3.png)
@@ -41,9 +43,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-#Telas
-
-- Dashboard
-![image](https://user-images.githubusercontent.com/86486202/199040542-e652ede6-1d2e-4d04-a0ea-6c461f16f109.png)
-
