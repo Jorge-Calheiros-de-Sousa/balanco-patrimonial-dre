@@ -1,6 +1,6 @@
 ## Sistema de balanço patrimonial e DRE
 
-# Telas
+### Telas
 
 ![image](https://user-images.githubusercontent.com/86486202/199177595-6ddd8b6f-e18e-4f15-9414-6267391b100a.png)
 
